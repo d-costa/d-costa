@@ -8,3 +8,4 @@ Here is a little bit about me!
 
 - :heart: Automation, Cloud and anything Kotlin related
 
+[![linkedin](https://img.shields.io/badge/-linkedin-02569B?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/david-amorim-costa-9720b8252/)
